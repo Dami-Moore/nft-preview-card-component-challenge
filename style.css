@@ -8,7 +8,7 @@ body {
 /* main container */
 .whole {
     margin: 2.5rem auto 0;
-    width: 365px;
+    width: 25%;
     background-color: hsl(216, 50%, 16%);
     border-radius: 3%;
     padding: 0.5rem;
