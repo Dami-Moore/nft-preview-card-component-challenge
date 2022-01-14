@@ -124,8 +124,10 @@ span:hover {
 @media screen and (max-width: 1440px) {
     .whole {
         width: 320px;
+
     }
 }
+
 
 @media screen and (max-width: 425px) {
     .attribution {
