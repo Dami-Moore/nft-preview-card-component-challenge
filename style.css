@@ -138,4 +138,8 @@ span:hover {
     .attribution {
         display: none;
     }
+
+    .whole {
+        width: 275px;
+    }
 }
